@@ -1,0 +1,15 @@
+true_class,total,correct,recall,top_confusions
+Green Light,17,17,1.0,-
+Red Light,32,26,0.8125,Green Light:6
+Speed Limit 100,18,18,1.0,-
+Speed Limit 110,18,18,1.0,-
+Speed Limit 120,15,14,0.9333,Speed Limit 40:1
+Speed Limit 20,18,18,1.0,-
+Speed Limit 30,41,41,1.0,-
+Speed Limit 40,33,29,0.8788,Green Light:2 | Speed Limit 60:2
+Speed Limit 50,27,26,0.963,Green Light:1
+Speed Limit 60,21,20,0.9524,Green Light:1
+Speed Limit 70,24,23,0.9583,Speed Limit 50:1
+Speed Limit 80,20,20,1.0,-
+Speed Limit 90,17,17,1.0,-
+Stop,16,16,1.0,-

@@ -1,0 +1,5 @@
+split,N,correct,accuracy
+test,604,592,0.980132
+snow_test,317,303,0.955836
+rainy_test,214,205,0.957944
+test2,240,230,0.958333
